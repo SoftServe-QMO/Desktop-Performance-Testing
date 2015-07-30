@@ -1,0 +1,13 @@
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\oelyash\documents\visual studio 2013\Projects\PerfMonSetCounters\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\oelyash\documents\visual studio 2013\Projects\PerfMonSetCounters\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\oelyash\documents\visual studio 2013\Projects\PerfMonSetCounters\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\CreatePerfMonCounters\ConsoleApplication1\bin\Debug\CreatePerfCounters.exe.config
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\CreatePerfMonCounters\ConsoleApplication1\bin\Debug\CreatePerfCounters.exe
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\CreatePerfMonCounters\ConsoleApplication1\bin\Debug\CreatePerfCounters.pdb
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\CreatePerfMonCounters\ConsoleApplication1\obj\Debug\CreatePerfCounters.exe
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\CreatePerfMonCounters\ConsoleApplication1\obj\Debug\CreatePerfCounters.pdb
