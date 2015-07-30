@@ -1,0 +1,4 @@
+c:\users\oelyash\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Release\ClassLibrary1.dll
+c:\users\oelyash\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Release\ClassLibrary1.pdb
+c:\users\oelyash\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\ClassLibrary1.dll
+c:\users\oelyash\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\ClassLibrary1.pdb

@@ -1,0 +1,4 @@
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\PerfMonProxy\ClassLibrary1\bin\x86\Release\PerfMonitorProxy.dll
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\PerfMonProxy\ClassLibrary1\bin\x86\Release\PerfMonitorProxy.pdb
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\PerfMonProxy\ClassLibrary1\obj\x86\Release\PerfMonitorProxy.dll
+C:\Users\oelyash\Documents\Visual Studio 2013\Projects\PerfMonProxy\ClassLibrary1\obj\x86\Release\PerfMonitorProxy.pdb
