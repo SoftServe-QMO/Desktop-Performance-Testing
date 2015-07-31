@@ -1,0 +1,11 @@
+{
+  "website": "", 
+  "ocrdatafolder": "C:\\Alexa\\OcrData\\tessdata", 
+  "venv": "", 
+  "name": "test", 
+  "license": "GNU General Public License v3", 
+  "logfolder": "C:\\Alexa\\TestCases\\test\\log", 
+  "author": "", 
+  "project-type": "Al'exa Test Case", 
+  "description": ""
+}
